@@ -15,3 +15,7 @@ A gitignore file for a java project should contain the following
    2. So that multiple people can work simultaneouly without interrupting others work.
 
 4. In a project we generally have only one git repository.
+
+
+Comments:
+First 3 answers are good the 4th answer could be elaborated more by giving an explanation.
