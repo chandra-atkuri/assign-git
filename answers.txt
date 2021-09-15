@@ -1,0 +1,17 @@
+1. The .gitignore file contains ignore rules. It specifically contains rules that are meant to be shared through the repository, so it should be included. 
+A gitignore file for a java project should contain the following 
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+2. Fast forward merge is a type of merge which can be performed when there is a direct linear path from the source branch to the target branch. In this, the git simply moves the pointer from the source branch to the target branch without creating an extra merge commit.
+
+3. We should have different branches for the following reasons.
+   1. A master branch, so that we always have a working software
+   2. So that multiple people can work simultaneouly without interrupting others work.
+
+4. In a project we generally have only one git repository.
